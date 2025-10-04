@@ -1,0 +1,280 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body{
+	margin:0px;
+}
+
+.NAV_BAR a{
+text-decoration: none;	
+	font-size: 20px;
+	margin: 20px 10px;
+	padding: 10px 10px;
+	background-color: white;
+	
+}
+.NAV_BAR p{
+	margin: 30px 10px;
+}
+.NAV_BAR{
+	background-color:white;
+	position:fixed;
+	top:0;
+	box-shadow: 2px 2px 5px 0px black;
+}
+
+
+
+
+
+.NAV_BAR a:hover{
+	text-decoration: none;
+	margin: 10px 10px;
+	padding: 10px 10px;
+	font-size: 20px;
+	background-color: green;
+	
+	
+}
+
+#Prug_Overview{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+#Good_To_Know_Prug{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+#Nest_text{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+
+#Eating_Behavior_Prug{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+#Founding_Time_Behavior_Flight_Time_Prug{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+#Add_Good_To_Know{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+#Prug_Queen_Dealate{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+
+#Prug_Drone{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+#Wild_Prug_Nest{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+#Prug_Workers{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+#Pogonomyrmexrugosus_Queen_Alate{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+#Pogonomyrmexrugosus_Westling_Match{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

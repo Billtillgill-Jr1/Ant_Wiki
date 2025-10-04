@@ -1,0 +1,358 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px;
+}
+
+.NAV_BAR a{
+text-decoration: none;	
+	font-size: 20px;
+	margin: 20px 10px;
+	padding: 10px 10px;
+	background-color: white;
+	
+}
+.NAV_BAR p{
+	margin: 30px 10px;
+}
+.NAV_BAR{
+	background-color:white;
+	position:fixed;
+	top:0;
+	box-shadow: 2px 2px 5px 0px black;
+}
+
+
+
+
+
+.NAV_BAR a:hover{
+	text-decoration: none;
+	margin: 10px 10px;
+	padding: 10px 10px;
+	font-size: 20px;
+	background-color: green;
+	
+	
+}
+
+
+
+
+
+
+#Pog_occ_Overview{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+#Good_To_Know_P_occ{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+#Nest_Behavier{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+#What_Eat_Pocc{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+
+#Founding_Time_Behavior_Flight_Time_P_occ{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+#P_occ_Dealate_Queen{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+#P_occ_Alate_Queen{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+#P_occ_Worker{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+#P_occ_Male{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 500px 40px 500px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+#P_occ_Nest_Ent{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 50px 40px 50px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+#P_occ_Foundig_Chambers{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 50px 40px 50px;
+	padding: 40px 30px 12px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
