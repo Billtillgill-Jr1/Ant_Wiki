@@ -1,0 +1,222 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+/* Styles for larger screens (e.g., desktops) */
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+/* Styles for smaller screens (e.g., phones) */
+@media (max-width: 768px) {
+  .container {
+    width: 100%;
+    padding: 0 15px;
+  }
+  /* Adjust other styles as needed for mobile */
+}
+
+
+
+
+
+
+
+
+body{
+	margin:0px;
+}
+
+.NAV_BAR a{
+text-decoration: none;	
+	font-size: 20px;
+	margin: 20px 10px;
+	padding: 10px 10px;
+	background-color: white;
+	
+}
+.NAV_BAR p{
+	margin: 30px 10px;
+}
+.NAV_BAR{
+	background-color:white;
+	position:fixed;
+	top:0;
+	box-shadow: 2px 2px 5px 0px black;
+}
+
+
+
+
+
+.NAV_BAR a:hover{
+	text-decoration: none;
+	margin: 10px 10px;
+	padding: 10px 10px;
+	font-size: 20px;
+	background-color: green;
+	
+	
+}
+
+#Support_Me{
+	background-color: white;
+	padding: 5px 20px;
+	margin: 0px;
+	
+	
+}
+
+#Support_Me a{
+	text-decoration: none;
+	
+	
+	
+	
+}
+
+
+#CAW{
+	
+	color: black;
+	
+	
+	
+	
+	
+}
+
+
+body{
+	background-color: cadetblue;
+	
+	
+	
+	
+}
+
+
+
+#about_Website{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 1px 500px 1px 500px;
+	padding: 0px 30px;
+	
+	
+	
+}
+
+
+
+
+
+#about_me{
+	background-color: white;
+	flex-wrap: wrap;
+	text-align: center;
+	margin: 1px 500px 1px 500px;
+	padding: 0px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+#Why_Cool_To_Me{
+	background-color: white;
+	flex-wrap: wrap;
+	text-align: center;
+	margin: 1px 500px 1px 500px;
+padding: 0px 30px;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#About_The_Hobby{
+	
+background-color: white;
+	flex-wrap: wrap;
+	text-align: center;
+	margin: 1px 500px 20px 500px;
+padding: 0px 30px;
+
+
+
+}
+
+
+
+
+
+
+#sources{
+	background-color: white;
+	flex-wrap: wrap;
+	text-align: center;
+	margin: 10px 500px 20px 500px;
+	padding: 0px 30px;
+	
+	
+	
+	
+	
+}
+
+
+#sources a{
+	text-decoration: none;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
