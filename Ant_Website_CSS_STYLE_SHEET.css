@@ -1,0 +1,205 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+
+
+
+
+body{
+	margin:0px;
+}
+
+.NAV_BAR a{
+text-decoration: none;	
+	font-size: 20px;
+	margin: 2px 1px;
+	padding: 5px 5px;
+	background-color: white;
+	
+}
+.NAV_BAR p{
+	margin: 30px 10px;
+}
+.NAV_BAR{
+	background-color:white;
+	position:fixed;
+	top:0;
+	box-shadow: 2px 2px 5px 0px black;
+}
+
+
+
+
+
+.NAV_BAR a:hover{
+	text-decoration: none;
+	margin: 2px 1px;
+	padding: 5px 5px;
+	font-size: 20px;
+	background-color: green;
+	
+	
+}
+
+#Support_Me{
+	background-color: white;
+	padding: 5px 20px;
+	margin: 0px;
+	
+	
+}
+
+#Support_Me a{
+	text-decoration: none;
+	
+	
+	
+	
+}
+
+
+#CAW{
+	
+	color: black;
+	
+	
+	
+	
+	
+}
+
+
+body{
+	background-color: cadetblue;
+	
+	
+	
+	
+}
+
+
+
+#about_Website{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 1px 185px 1px 185px;
+	padding: 0px 30px;
+	
+	
+	
+}
+
+
+
+
+
+#about_me{
+	background-color: white;
+	flex-wrap: wrap;
+	text-align: center;
+	margin: 1px 50px 1px 50px;
+	padding: 0px 30px;
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+#Why_Cool_To_Me{
+	background-color: white;
+	flex-wrap: wrap;
+	text-align: center;
+	margin: 1px 50px 1px 50px;
+padding: 0px 30px;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#About_The_Hobby{
+	
+background-color: white;
+	flex-wrap: wrap;
+	text-align: center;
+	margin: 1px 50px 20px 50px;
+padding: 0px 30px;
+
+
+
+}
+
+
+
+
+
+
+#sources{
+	background-color: white;
+	flex-wrap: wrap;
+	text-align: center;
+	margin: 10px 50px 20px 50px;
+	padding: 0px 30px;
+	
+	
+	
+	
+	
+}
+
+
+#sources a{
+	text-decoration: none;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
