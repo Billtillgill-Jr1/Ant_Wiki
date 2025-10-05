@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	margin:0px;
+}
+
+.NAV_BAR a{
+text-decoration: none;	
+	font-size: 15px;
+	margin: 2px 1px;
+	padding: 5px 5px;
+	background-color: white;
+	
+}
+.NAV_BAR p{
+	margin: 30px 10px;
+}
+.NAV_BAR{
+	background-color:white;
+	position:fixed;
+	top:0;
+	box-shadow: 2px 2px 5px 0px black;
+}
+
+
+
+
+
+.NAV_BAR a:hover{
+	text-decoration: none;
+	margin: 2px 1px;
+	padding: 5px 5px;
+	font-size: 15px;
+	background-color: green;
+	
+	
+}
+
+
+
+
+
+body{
+	background-color: cadetblue;
+	
+	
+	
+	
+}
+
+
+
+#disclaimer{
+	background-color: white;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: center;
+	margin: 1px 185px 1px 185px;
+	padding: 1px 30px;
+	
+
+	
+}
+
+
+
+
+
+#Life_Cycle_Of_Ant{
+	flex-wrap: wrap;
+	text-align: center;
+	background-color: white;
+	margin: 40px 185px 40px 185px;
+	padding: 5px 30px;
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
